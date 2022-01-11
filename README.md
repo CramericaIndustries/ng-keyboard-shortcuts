@@ -19,7 +19,7 @@
   
 An Angular module that provides a declarative API using components/directive to manage Keyboard shortcuts in scalable way.  
   
-This documentation is for version **7.0.0+ (8,9,10,11) and any future versions**.  For older versions (**2.0.0/6.0.0**) please [click here](https://github.com/omridevk/ng-keyboard-shortcuts/tree/2.0.0)  
+This documentation is for version **7.0.0+ (8,9,10,11,12) and any future versions**.  For older versions (**2.0.0/6.0.0**) please [click here](https://github.com/omridevk/ng-keyboard-shortcuts/tree/2.0.0)  
   
 See demo here:  
 [demo](https://codesandbox.io/s/yvyovny43v)  
@@ -59,6 +59,8 @@ Compatible with Angular 5+
 ##### NPM
 ###### Angular latest
 ```npm install --save ng-keyboard-shortcuts```
+###### Angular 12
+```npm install --save ng-keyboard-shortcuts@^12.0.0```  
 ###### Angular 11
 ```npm install --save ng-keyboard-shortcuts@^11.0.0```  
 ###### Angular 10
@@ -72,6 +74,8 @@ Compatible with Angular 5+
 
 ###### Angular latest
 ```yarn add ng-keyboard-shortcuts```
+###### Angular 12
+```npm add ng-keyboard-shortcuts@^12.0.0```  
 ###### Angular 11
 ```npm add ng-keyboard-shortcuts@^11.0.0```  
 ###### Angular 10
