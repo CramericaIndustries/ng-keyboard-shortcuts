@@ -60,11 +60,7 @@ Compatible with Angular 5+
 ###### Angular latest
 ```npm install --save ng-keyboard-shortcuts```
 ###### Angular 13
-```npm install --save ng-keyboard-shortcuts@^13.0.0```  
-###### Angular 12
-```npm install --save ng-keyboard-shortcuts@^12.0.0```  
-###### Angular 11
-```npm install --save ng-keyboard-shortcuts@^11.0.0```  
+```npm install --save https://raw.githubusercontent.com/CramericaIndustries/ng-keyboard-shortcuts/master/bin-releases/ng-keyboard-shortcuts-13.0.0.tgz```  
 ###### Angular 10
 ```npm install --save ng-keyboard-shortcuts@^10.0.0```  
 ###### Angular 8/9
@@ -77,15 +73,11 @@ Compatible with Angular 5+
 ###### Angular latest
 ```yarn add ng-keyboard-shortcuts```
 ###### Angular 13
-```npm add ng-keyboard-shortcuts@^13.0.0```  
-###### Angular 12
-```npm add ng-keyboard-shortcuts@^12.0.0```  
-###### Angular 11
-```npm add ng-keyboard-shortcuts@^11.0.0```  
+```yarn add https://raw.githubusercontent.com/CramericaIndustries/ng-keyboard-shortcuts/master/bin-releases/ng-keyboard-shortcuts-13.0.0.tgz```  
 ###### Angular 10
-```npm add ng-keyboard-shortcuts@^10.0.0```  
+```yarn add ng-keyboard-shortcuts@^10.0.0```  
 ###### Angular 8/9
-```npm add ng-keyboard-shortcuts@^9.0.0```  
+```yarn add ng-keyboard-shortcuts@^9.0.0```  
 ###### Angular 7
 ```yarn add ng-keyboard-shortcuts@^7.0.0```
 
